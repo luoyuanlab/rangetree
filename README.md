@@ -16,3 +16,13 @@ Implementation of range tree, range tree with fractional cascading and interval 
   
   
   The results are generated in the path of queryfiles with suffix '.res'
+
+# Citation
+```
+@article{mao2018rangetree,
+  title={Efficient Genomic Interval Queries Using Augmented Range Trees},
+  author={Mao, Chengsheng and Eran, Alal and Luo, Yuan},
+  journal={arXiv preprint arXiv:1806.01217},
+  year={2018}
+}
+```
