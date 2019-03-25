@@ -22,7 +22,8 @@ Implementation of range tree, range tree with fractional cascading and interval 
 @article{mao2018rangetree,
   title={Efficient Genomic Interval Queries Using Augmented Range Trees},
   author={Mao, Chengsheng and Eran, Alal and Luo, Yuan},
-  journal={arXiv preprint arXiv:1806.01217},
-  year={2018}
+  journal={Scientific Reports: 10.1038/s41598-019-41451-3},
+  Volume={9}
+  year={2019}
 }
 ```
