@@ -19,5 +19,13 @@ Implementation of range tree, range tree with fractional cascading and interval 
 
 # Citation
 ```
-Luo, Y., Eran, A., Palmer, N. et al. A multidimensional precision medicine approach identifies an autism subtype characterized by dyslipidemia. Nat Med (2020). https://doi.org/10.1038/s41591-020-1007-0
+@article{chengsheng2019efficient,
+  title={Efficient Genomic Interval Queries Using Augmented Range Trees},
+  author={Chengsheng, Mao and Alal, Eran and Luo, Yuan},
+  journal={Scientific Reports (Nature Publisher Group)},
+  volume={9},
+  number={1},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
 ```
